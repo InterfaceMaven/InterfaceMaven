@@ -32,7 +32,7 @@ Hi there! 👋 I'm a Junior Cybersecurity Analyst with a passion for cloud archi
 * **Offensive Security:** Engaging in Hack The Box CTFs and machine compromises to study adversary tactics and strengthen defensive strategies.
 * **Automation & Applied AI:** Developing Python scripts and leveraging Generative AI to automate technical workflows and streamline SLA reporting.
 
-### 💡 Philosophy
+### 💡Modus Operandi
 Code first, but secure by design. I keep things simple: build it well, make it scale, and let security be part of the flow — not a fix.
 
 ### 📬 Connect With Me
